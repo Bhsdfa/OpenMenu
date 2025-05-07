@@ -117,7 +117,7 @@ FOR i = 1 TO 128
    MBH_Menu(i).anim.ClickSize = 30
    MBH_Menu(i).anim.ClickSpeed = 4
 
-   MBH_Menu(i).style.RoundedRadius = 5
+   MBH_Menu(i).style.RoundedRadius = 16
    'MBH_Menu(i).anim.CanStretch = -1
    'MBH_Menu(i).anim.StretchSize = 50
    'MBH_Menu(i).anim.StretchDamp = 3
